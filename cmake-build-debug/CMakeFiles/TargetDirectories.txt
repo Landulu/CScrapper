@@ -1,0 +1,3 @@
+/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles/CScrapper.dir
+/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles/edit_cache.dir
