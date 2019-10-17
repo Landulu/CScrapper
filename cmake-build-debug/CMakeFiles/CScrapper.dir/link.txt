@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/CScrapper.dir/main.c.o  -o CScrapper 
+/usr/bin/cc -g   CMakeFiles/CScrapper.dir/main.c.o CMakeFiles/CScrapper.dir/confParser.c.o CMakeFiles/CScrapper.dir/message.c.o  -o CScrapper 

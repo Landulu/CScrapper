@@ -1,0 +1,32 @@
+=
+{name -> Google}
+{url -> https://www.google.com/}    #this is a comment
++
+{verbose -> Y}
+{max-depth -> 0}
+
+=
+{name -> Monster_Hunter}
+{url -> http://www.monsterhunterworld.com/fr/}
++
+{verbose -> Y}
+{max-depth -> 0}
+{type -> (image/png, image/gif, image/jpg)}
+
+
+==      // TASK
+{name -> Ma premiere tache}     // name
+{second -> 10}                  // interval
++
+(Google, Monster_Hunter)        // actionlist
+
+==
+{name -> Ma 2eme tache}
+{minute -> 2}
+{second -> 10}
++
+(Google)
+
+
+
+

@@ -1,6 +1,17 @@
-#include <stdio.h>
+#include <curl/curl.h>
+#include "commons.h"
+#include "confParser.h"
 
 int main() {
-    printf("Hello this is CScrapper 2!\n");
+
+    Parameters* parameters;
+
+    initScrapperParameters(parameters);
+
+    scrap(*parameters);
+
+    freeParams(parameters);
+
+
     return 0;
 }

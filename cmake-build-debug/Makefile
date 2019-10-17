@@ -123,6 +123,33 @@ CScrapper/fast:
 	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/build
 .PHONY : CScrapper/fast
 
+confParser.o: confParser.c.o
+
+.PHONY : confParser.o
+
+# target to build an object file
+confParser.c.o:
+	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/confParser.c.o
+.PHONY : confParser.c.o
+
+confParser.i: confParser.c.i
+
+.PHONY : confParser.i
+
+# target to preprocess a source file
+confParser.c.i:
+	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/confParser.c.i
+.PHONY : confParser.c.i
+
+confParser.s: confParser.c.s
+
+.PHONY : confParser.s
+
+# target to generate assembly for a file
+confParser.c.s:
+	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/confParser.c.s
+.PHONY : confParser.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -150,6 +177,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/main.c.s
 .PHONY : main.c.s
 
+message.o: message.c.o
+
+.PHONY : message.o
+
+# target to build an object file
+message.c.o:
+	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/message.c.o
+.PHONY : message.c.o
+
+message.i: message.c.i
+
+.PHONY : message.i
+
+# target to preprocess a source file
+message.c.i:
+	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/message.c.i
+.PHONY : message.c.i
+
+message.s: message.c.s
+
+.PHONY : message.s
+
+# target to generate assembly for a file
+message.c.s:
+	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/message.c.s
+.PHONY : message.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... CScrapper"
 	@echo "... edit_cache"
+	@echo "... confParser.o"
+	@echo "... confParser.i"
+	@echo "... confParser.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... message.o"
+	@echo "... message.i"
+	@echo "... message.s"
 .PHONY : help
 
 

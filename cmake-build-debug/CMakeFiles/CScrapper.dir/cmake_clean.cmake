@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CScrapper.dir/confParser.c.o"
   "CMakeFiles/CScrapper.dir/main.c.o"
+  "CMakeFiles/CScrapper.dir/message.c.o"
   "CScrapper"
   "CScrapper.pdb"
 )

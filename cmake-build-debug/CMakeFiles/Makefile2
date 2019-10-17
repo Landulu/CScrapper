@@ -74,12 +74,12 @@ preinstall:
 CMakeFiles/CScrapper.dir/all:
 	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/depend
 	$(MAKE) -f CMakeFiles/CScrapper.dir/build.make CMakeFiles/CScrapper.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target CScrapper"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target CScrapper"
 .PHONY : CMakeFiles/CScrapper.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CScrapper.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CScrapper.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CScrapper.dir/rule

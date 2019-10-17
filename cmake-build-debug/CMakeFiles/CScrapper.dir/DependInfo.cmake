@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/landulu/CLionProjects/CScrapper/confParser.c" "/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles/CScrapper.dir/confParser.c.o"
   "/home/landulu/CLionProjects/CScrapper/main.c" "/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles/CScrapper.dir/main.c.o"
+  "/home/landulu/CLionProjects/CScrapper/message.c" "/home/landulu/CLionProjects/CScrapper/cmake-build-debug/CMakeFiles/CScrapper.dir/message.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

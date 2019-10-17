@@ -11,7 +11,35 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cc5bd94-d85f-4a8b-bc08-dfeb54aae2eb" name="Default Changelist" comment="" />
+    <list default="true" id="8cc5bd94-d85f-4a8b-bc08-dfeb54aae2eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/main.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CScrapper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commons.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/confParser.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/confParser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/message.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/message.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parameters.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapperConf/mockup.sconf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapperConf/test1.sconf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CScrapper.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CScrapper.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CScrapper.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570887603083</updated>
-      <workItem from="1570887604726" duration="714000" />
+      <workItem from="1570887604726" duration="2184000" />
+      <workItem from="1571053329052" duration="83000" />
+      <workItem from="1571313362162" duration="14499000" />
     </task>
     <servers />
   </component>
@@ -71,10 +101,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/message.c</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

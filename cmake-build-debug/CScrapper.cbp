@@ -78,7 +78,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/landulu/CLionProjects/CScrapper/commons.h">
+			<Option target="CScrapper"/>
+		</Unit>
+		<Unit filename="/home/landulu/CLionProjects/CScrapper/confParser.c">
+			<Option target="CScrapper"/>
+		</Unit>
+		<Unit filename="/home/landulu/CLionProjects/CScrapper/confParser.h">
+			<Option target="CScrapper"/>
+		</Unit>
 		<Unit filename="/home/landulu/CLionProjects/CScrapper/main.c">
+			<Option target="CScrapper"/>
+		</Unit>
+		<Unit filename="/home/landulu/CLionProjects/CScrapper/message.c">
+			<Option target="CScrapper"/>
+		</Unit>
+		<Unit filename="/home/landulu/CLionProjects/CScrapper/message.h">
+			<Option target="CScrapper"/>
+		</Unit>
+		<Unit filename="/home/landulu/CLionProjects/CScrapper/parameters.h">
 			<Option target="CScrapper"/>
 		</Unit>
 		<Unit filename="/home/landulu/CLionProjects/CScrapper/CMakeLists.txt">
